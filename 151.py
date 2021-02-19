@@ -4,9 +4,9 @@
 
 
 def paper_sheets_of_standard_sizes:_an_expected-value_problem() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

@@ -4,9 +4,9 @@
 
 
 def hilbert's_new_hotel() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

@@ -4,9 +4,9 @@
 
 
 def finding_numbers_for_which_the_sum_of_the_squares_of_the_digits_is_a_square() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

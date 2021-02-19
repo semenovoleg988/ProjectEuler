@@ -4,9 +4,9 @@
 
 
 def largest_roots_of_cubic_polynomials() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

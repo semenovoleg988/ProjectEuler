@@ -4,9 +4,9 @@
 
 
 def numbers_with_a_given_prime_factor_sum() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

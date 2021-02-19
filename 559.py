@@ -4,9 +4,9 @@
 
 
 def permuted_matrices() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

@@ -4,9 +4,9 @@
 
 
 def a_stoneham_number() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

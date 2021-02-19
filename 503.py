@@ -4,9 +4,9 @@
 
 
 def compromise_or_persist() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

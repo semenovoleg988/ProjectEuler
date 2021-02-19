@@ -4,9 +4,9 @@
 
 
 def binomial_coefficients_divisible_by_10() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

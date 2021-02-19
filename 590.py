@@ -4,9 +4,9 @@
 
 
 def sets_with_a_given_least_common_multiple() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

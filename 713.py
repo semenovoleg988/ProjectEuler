@@ -4,9 +4,9 @@
 
 
 def turã¢n's_water_heating_system() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

@@ -4,9 +4,9 @@
 
 
 def the_inverse_summation_of_coprime_couples() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

@@ -4,9 +4,9 @@
 
 
 def gathering_the_beans() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

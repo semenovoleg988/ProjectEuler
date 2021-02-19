@@ -4,9 +4,9 @@
 
 
 def prime_square_remainders() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

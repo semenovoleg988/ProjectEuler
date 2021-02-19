@@ -4,9 +4,9 @@
 
 
 def steps_in_euclid's_algorithm() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

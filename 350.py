@@ -4,9 +4,9 @@
 
 
 def constraining_the_least_greatest_and_the_greatest_least() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

@@ -4,9 +4,9 @@
 
 
 def lattice_points_on_a_circle() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

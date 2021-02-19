@@ -4,9 +4,9 @@
 
 
 def building_a_tower() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

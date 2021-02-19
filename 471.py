@@ -4,9 +4,9 @@
 
 
 def triangle_inscribed_in_ellipse() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

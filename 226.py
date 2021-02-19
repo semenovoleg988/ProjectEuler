@@ -4,9 +4,9 @@
 
 
 def a_scoop_of_blancmange() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

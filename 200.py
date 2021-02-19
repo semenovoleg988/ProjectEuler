@@ -4,9 +4,9 @@
 
 
 def find_the_200th_prime-proof_sqube_containing_the_contiguous_sub-string_"200"() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

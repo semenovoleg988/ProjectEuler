@@ -4,9 +4,9 @@
 
 
 def incenter_and_circumcenter_of_triangle() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

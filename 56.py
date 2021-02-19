@@ -4,9 +4,9 @@
 
 
 def powerful_digit_sum() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

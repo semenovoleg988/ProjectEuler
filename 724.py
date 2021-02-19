@@ -4,9 +4,9 @@
 
 
 def drone_delivery() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

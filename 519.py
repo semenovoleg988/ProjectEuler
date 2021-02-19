@@ -4,9 +4,9 @@
 
 
 def tricoloured_coin_fountains() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

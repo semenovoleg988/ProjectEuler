@@ -4,9 +4,9 @@
 
 
 def right_triangles_with_integer_coordinates() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

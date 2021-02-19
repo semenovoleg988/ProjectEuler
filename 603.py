@@ -4,9 +4,9 @@
 
 
 def substring_sums_of_prime_concatenations() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

@@ -4,9 +4,9 @@
 
 
 def comfortable_distance_ii() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

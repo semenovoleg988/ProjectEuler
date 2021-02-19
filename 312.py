@@ -4,9 +4,9 @@
 
 
 def cyclic_paths_on_sierpiå„ski_graphs() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

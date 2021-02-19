@@ -4,9 +4,9 @@
 
 
 def beds_and_desks() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

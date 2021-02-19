@@ -4,9 +4,9 @@
 
 
 def luxury_hampers() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

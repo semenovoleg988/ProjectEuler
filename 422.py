@@ -4,9 +4,9 @@
 
 
 def sequence_of_points_on_a_hyperbola() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

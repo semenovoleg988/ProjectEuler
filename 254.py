@@ -4,9 +4,9 @@
 
 
 def sums_of_digit_factorials() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

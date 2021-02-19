@@ -4,9 +4,9 @@
 
 
 def numbers_for_which_euler␙s_totient_function_equals_13!() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

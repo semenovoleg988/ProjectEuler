@@ -4,9 +4,9 @@
 
 
 def a_polynomial_modulo_the_square_of_a_prime() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

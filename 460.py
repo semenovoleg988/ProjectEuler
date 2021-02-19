@@ -4,9 +4,9 @@
 
 
 def an_ant_on_the_move() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

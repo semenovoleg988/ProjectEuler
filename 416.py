@@ -4,9 +4,9 @@
 
 
 def a_frog's_trip() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

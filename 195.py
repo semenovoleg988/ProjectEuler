@@ -4,9 +4,9 @@
 
 
 def inscribed_circles_of_triangles_with_one_angle_of_60_degrees() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

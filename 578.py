@@ -4,9 +4,9 @@
 
 
 def integers_with_decreasing_prime_powers() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

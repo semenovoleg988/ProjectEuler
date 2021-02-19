@@ -4,9 +4,9 @@
 
 
 def nearly_isosceles_120_degree_triangles() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

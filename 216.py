@@ -4,9 +4,9 @@
 
 
 def investigating_the_primality_of_numbers_of_the_form_2n2-1() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

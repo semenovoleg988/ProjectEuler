@@ -4,9 +4,9 @@
 
 
 def exploring_pascal's_pyramid() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

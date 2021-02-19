@@ -4,9 +4,9 @@
 
 
 def best_approximations_by_quadratic_integers() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

@@ -4,9 +4,9 @@
 
 
 def linear_combinations_of_semiprimes() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

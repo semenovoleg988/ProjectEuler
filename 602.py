@@ -4,9 +4,9 @@
 
 
 def product_of_head_counts() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

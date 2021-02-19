@@ -4,9 +4,9 @@
 
 
 def investigating_numbers_with_few_repeated_digits() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

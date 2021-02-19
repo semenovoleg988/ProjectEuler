@@ -4,9 +4,9 @@
 
 
 def almost_right-angled_triangles_i() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

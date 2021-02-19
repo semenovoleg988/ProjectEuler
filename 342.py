@@ -4,9 +4,9 @@
 
 
 def the_totient_of_a_square_is_a_cube() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

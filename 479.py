@@ -4,9 +4,9 @@
 
 
 def roots_on_the_rise() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

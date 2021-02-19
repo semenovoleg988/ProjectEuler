@@ -4,9 +4,9 @@
 
 
 def factorial_trailing_digits() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

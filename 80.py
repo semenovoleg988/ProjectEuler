@@ -4,9 +4,9 @@
 
 
 def square_root_digital_expansion() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

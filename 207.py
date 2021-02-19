@@ -4,9 +4,9 @@
 
 
 def integer_partition_equations() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

@@ -4,9 +4,9 @@
 
 
 def twos_are_all_you_need() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

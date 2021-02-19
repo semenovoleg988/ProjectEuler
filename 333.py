@@ -4,9 +4,9 @@
 
 
 def special_partitions() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

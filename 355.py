@@ -4,9 +4,9 @@
 
 
 def maximal_coprime_subset() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

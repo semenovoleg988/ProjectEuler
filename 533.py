@@ -4,9 +4,9 @@
 
 
 def minimum_values_of_the_carmichael_function() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

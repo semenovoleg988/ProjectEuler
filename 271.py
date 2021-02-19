@@ -4,9 +4,9 @@
 
 
 def modular_cubes,_part_1() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

@@ -4,9 +4,9 @@
 
 
 def sum_of_a_square_and_a_cube() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

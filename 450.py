@@ -4,9 +4,9 @@
 
 
 def hypocycloid_and_lattice_points() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

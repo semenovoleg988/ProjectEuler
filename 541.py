@@ -4,9 +4,9 @@
 
 
 def divisibility_of_harmonic_number_denominators() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

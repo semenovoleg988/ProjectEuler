@@ -4,9 +4,9 @@
 
 
 def stone_game_iii() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

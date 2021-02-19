@@ -4,9 +4,9 @@
 
 
 def disc_game_prize_fund() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

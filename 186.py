@@ -4,9 +4,9 @@
 
 
 def connectedness_of_a_network() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

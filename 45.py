@@ -4,9 +4,9 @@
 
 
 def triangular,_pentagonal,_and_hexagonal() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

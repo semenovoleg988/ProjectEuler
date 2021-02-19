@@ -4,9 +4,9 @@
 
 
 def cube_digit_pairs() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

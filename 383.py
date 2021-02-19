@@ -4,9 +4,9 @@
 
 
 def divisibility_comparison_between_factorials() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

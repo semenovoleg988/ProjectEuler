@@ -4,9 +4,9 @@
 
 
 def triangles_with_non_rational_sides_and_integral_area() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

@@ -4,9 +4,9 @@
 
 
 def distinct_values_of_a_proto-logarithmic_function() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

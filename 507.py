@@ -4,9 +4,9 @@
 
 
 def shortest_lattice_vector() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

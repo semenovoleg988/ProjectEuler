@@ -4,9 +4,9 @@
 
 
 def integer_ladders() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

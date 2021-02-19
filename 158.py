@@ -4,9 +4,9 @@
 
 
 def exploring_strings_for_which_only_one_character_comes_lexicographically_after_its_neighbour_to_the_left() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

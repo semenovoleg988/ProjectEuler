@@ -4,9 +4,9 @@
 
 
 def searching_a_triangular_array_for_a_sub-triangle_having_minimum-sum() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

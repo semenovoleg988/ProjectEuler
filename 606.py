@@ -4,9 +4,9 @@
 
 
 def gozinta_chains_ii() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

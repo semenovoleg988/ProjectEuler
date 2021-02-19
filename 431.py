@@ -4,9 +4,9 @@
 
 
 def square_space_silo() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

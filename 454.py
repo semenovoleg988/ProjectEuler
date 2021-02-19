@@ -4,9 +4,9 @@
 
 
 def diophantine_reciprocals_iii() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

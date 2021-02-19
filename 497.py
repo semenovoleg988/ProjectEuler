@@ -4,9 +4,9 @@
 
 
 def drunken_tower_of_hanoi() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

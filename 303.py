@@ -4,9 +4,9 @@
 
 
 def multiples_with_small_digits() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

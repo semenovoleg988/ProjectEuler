@@ -4,9 +4,9 @@
 
 
 def one_more_one() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

@@ -4,9 +4,9 @@
 
 
 def euler's_number() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

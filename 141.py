@@ -4,9 +4,9 @@
 
 
 def investigating_progressive_numbers,_n,_which_are_also_square() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

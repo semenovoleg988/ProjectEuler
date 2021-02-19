@@ -4,9 +4,9 @@
 
 
 def distances_in_a_bee's_honeycomb() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

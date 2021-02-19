@@ -4,9 +4,9 @@
 
 
 def maximum_length_of_an_antichain() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

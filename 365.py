@@ -4,9 +4,9 @@
 
 
 def a_huge_binomial_coefficient() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

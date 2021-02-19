@@ -4,9 +4,9 @@
 
 
 def chocolate_covered_candy() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

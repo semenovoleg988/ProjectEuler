@@ -4,9 +4,9 @@
 
 
 def number_of_lattice_points_in_a_hyperball() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

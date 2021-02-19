@@ -4,9 +4,9 @@
 
 
 def mã¶bius_function_and_intervals() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

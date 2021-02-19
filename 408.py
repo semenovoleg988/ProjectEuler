@@ -4,9 +4,9 @@
 
 
 def admissible_paths_through_a_grid() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

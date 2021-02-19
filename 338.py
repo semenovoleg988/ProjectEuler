@@ -4,9 +4,9 @@
 
 
 def cutting_rectangular_grid_paper() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

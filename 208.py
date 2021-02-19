@@ -4,9 +4,9 @@
 
 
 def robot_walks() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

@@ -4,9 +4,9 @@
 
 
 def how_many_reversible_numbers_are_there_below_one-billion?() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

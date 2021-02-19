@@ -4,9 +4,9 @@
 
 
 def numbers_of_the_form_() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

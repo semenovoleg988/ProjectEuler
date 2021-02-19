@@ -4,9 +4,9 @@
 
 
 def numbers_for_which_no_three_consecutive_digits_have_a_sum_greater_than_a_given_value() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

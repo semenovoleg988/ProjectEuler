@@ -4,9 +4,9 @@
 
 
 def investigating_in_how_many_ways_objects_of_two_different_colours_can_be_grouped() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

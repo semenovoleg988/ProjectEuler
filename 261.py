@@ -4,9 +4,9 @@
 
 
 def pivotal_square_sums() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

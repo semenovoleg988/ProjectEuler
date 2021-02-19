@@ -4,9 +4,9 @@
 
 
 def sum_of_digits,_experience_13() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

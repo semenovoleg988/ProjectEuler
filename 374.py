@@ -4,9 +4,9 @@
 
 
 def maximum_integer_partition_product() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

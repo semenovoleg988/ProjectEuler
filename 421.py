@@ -4,9 +4,9 @@
 
 
 def prime_factors_of_n15+1() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

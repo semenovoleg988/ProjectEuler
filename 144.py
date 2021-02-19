@@ -4,9 +4,9 @@
 
 
 def investigating_multiple_reflections_of_a_laser_beam() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

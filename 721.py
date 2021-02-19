@@ -4,9 +4,9 @@
 
 
 def high_powers_of_irrational_numbers() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

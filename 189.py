@@ -4,9 +4,9 @@
 
 
 def tri-colouring_a_triangular_grid() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

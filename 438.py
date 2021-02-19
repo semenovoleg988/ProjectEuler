@@ -4,9 +4,9 @@
 
 
 def integer_part_of_polynomial_equation's_solutions() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

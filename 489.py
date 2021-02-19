@@ -4,9 +4,9 @@
 
 
 def common_factors_between_two_sequences() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

@@ -4,9 +4,9 @@
 
 
 def distinct_terms_in_a_multiplication_table() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

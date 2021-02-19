@@ -4,9 +4,9 @@
 
 
 def lattice_points_enclosed_by_parabola_and_line() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

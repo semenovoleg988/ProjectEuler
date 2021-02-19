@@ -4,9 +4,9 @@
 
 
 def an_enormous_factorial() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

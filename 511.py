@@ -4,9 +4,9 @@
 
 
 def sequences_with_nice_divisibility_properties() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

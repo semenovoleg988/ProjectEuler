@@ -4,9 +4,9 @@
 
 
 def using_up_to_one_million_tiles_how_many_different_"hollow"_square_laminae_can_be_formed?() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

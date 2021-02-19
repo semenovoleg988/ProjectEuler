@@ -4,9 +4,9 @@
 
 
 def investigating_the_behaviour_of_a_recursively_defined_sequence() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

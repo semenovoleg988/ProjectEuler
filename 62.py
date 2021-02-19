@@ -4,9 +4,9 @@
 
 
 def cubic_permutations() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

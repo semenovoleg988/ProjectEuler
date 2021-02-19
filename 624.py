@@ -4,9 +4,9 @@
 
 
 def two_heads_are_better_than_one() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

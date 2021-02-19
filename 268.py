@@ -4,9 +4,9 @@
 
 
 def counting_numbers_with_at_least_four_distinct_prime_factors_less_than_100() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

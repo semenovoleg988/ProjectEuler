@@ -4,9 +4,9 @@
 
 
 def sum_of_largest_prime_factors() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

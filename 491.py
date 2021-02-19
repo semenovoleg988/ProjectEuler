@@ -4,9 +4,9 @@
 
 
 def double_pandigital_number_divisible_by_11() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

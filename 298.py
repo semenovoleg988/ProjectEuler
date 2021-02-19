@@ -4,9 +4,9 @@
 
 
 def selective_amnesia() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

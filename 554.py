@@ -4,9 +4,9 @@
 
 
 def centaurs_on_a_chess_board() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

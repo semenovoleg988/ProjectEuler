@@ -4,9 +4,9 @@
 
 
 def a_weird_recurrence_relation() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

@@ -4,9 +4,9 @@
 
 
 def expressing_an_integer_as_the_sum_of_triangular_numbers() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

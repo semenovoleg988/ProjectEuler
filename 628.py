@@ -4,9 +4,9 @@
 
 
 def open_chess_positions() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

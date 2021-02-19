@@ -4,9 +4,9 @@
 
 
 def right-angled_triangles_that_share_a_cathetus() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

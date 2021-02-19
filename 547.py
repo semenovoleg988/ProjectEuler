@@ -4,9 +4,9 @@
 
 
 def distance_of_random_points_within_hollow_square_laminae() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

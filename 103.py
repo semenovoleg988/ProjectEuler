@@ -4,9 +4,9 @@
 
 
 def special_subset_sums:_optimum() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

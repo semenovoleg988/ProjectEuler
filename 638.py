@@ -4,9 +4,9 @@
 
 
 def weighted_lattice_paths() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

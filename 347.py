@@ -4,9 +4,9 @@
 
 
 def largest_integer_divisible_by_two_primes() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

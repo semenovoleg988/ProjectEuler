@@ -4,9 +4,9 @@
 
 
 def tangents_to_an_ellipse() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

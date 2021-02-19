@@ -4,9 +4,9 @@
 
 
 def polynomials_with_at_least_one_integer_root() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

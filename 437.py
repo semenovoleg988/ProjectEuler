@@ -4,9 +4,9 @@
 
 
 def fibonacci_primitive_roots() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

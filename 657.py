@@ -4,9 +4,9 @@
 
 
 def incomplete_words() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

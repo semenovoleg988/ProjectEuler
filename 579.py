@@ -4,9 +4,9 @@
 
 
 def lattice_points_in_lattice_cubes() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

@@ -4,9 +4,9 @@
 
 
 def every_day_is_a_holiday() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

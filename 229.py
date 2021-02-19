@@ -4,9 +4,9 @@
 
 
 def four_representations_using_squares() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

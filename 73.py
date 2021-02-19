@@ -4,9 +4,9 @@
 
 
 def counting_fractions_in_a_range() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

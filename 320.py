@@ -4,9 +4,9 @@
 
 
 def factorials_divisible_by_a_huge_integer() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

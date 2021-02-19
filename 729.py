@@ -4,9 +4,9 @@
 
 
 def range_of_periodic_sequence() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

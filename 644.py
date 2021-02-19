@@ -4,9 +4,9 @@
 
 
 def squares_on_the_line() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

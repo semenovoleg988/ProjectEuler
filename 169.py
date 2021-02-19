@@ -4,9 +4,9 @@
 
 
 def exploring_the_number_of_different_ways_a_number_can_be_expressed_as_a_sum_of_powers_of_2() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

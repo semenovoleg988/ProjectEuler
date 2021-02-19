@@ -4,9 +4,9 @@
 
 
 def squarefree_binomial_coefficients() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

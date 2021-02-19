@@ -4,9 +4,9 @@
 
 
 def tours_on_a_4_x_n_playing_board() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

@@ -4,9 +4,9 @@
 
 
 def 10-substrings() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

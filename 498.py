@@ -4,9 +4,9 @@
 
 
 def remainder_of_polynomial_division() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

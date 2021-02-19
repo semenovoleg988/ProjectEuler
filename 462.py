@@ -4,9 +4,9 @@
 
 
 def permutation_of_3-smooth_numbers() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

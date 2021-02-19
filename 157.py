@@ -4,9 +4,9 @@
 
 
 def solving_the_diophantine_equation_1/a+1/b=_p/10n() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

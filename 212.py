@@ -4,9 +4,9 @@
 
 
 def combined_volume_of_cuboids() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

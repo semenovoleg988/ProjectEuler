@@ -4,9 +4,9 @@
 
 
 def a_long_chess_match() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

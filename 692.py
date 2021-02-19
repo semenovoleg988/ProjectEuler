@@ -4,9 +4,9 @@
 
 
 def siegbert_and_jo() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

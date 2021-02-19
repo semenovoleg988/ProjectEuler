@@ -4,9 +4,9 @@
 
 
 def counting_the_number_of_"hollow"_square_laminae_that_can_form_one,_two,_three,_() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

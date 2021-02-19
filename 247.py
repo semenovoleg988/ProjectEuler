@@ -4,9 +4,9 @@
 
 
 def squares_under_a_hyperbola() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

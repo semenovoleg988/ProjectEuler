@@ -4,9 +4,9 @@
 
 
 def perfect_right-angled_triangles() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

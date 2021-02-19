@@ -4,9 +4,9 @@
 
 
 def eleven-free_integers() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

@@ -4,9 +4,9 @@
 
 
 def writing_n_as_the_product_of_k_distinct_positive_integers() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

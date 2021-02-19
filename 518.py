@@ -4,9 +4,9 @@
 
 
 def prime_triples_and_geometric_sequences() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

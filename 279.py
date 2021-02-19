@@ -4,9 +4,9 @@
 
 
 def triangles_with_integral_sides_and_an_integral_angle() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

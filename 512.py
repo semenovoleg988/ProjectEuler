@@ -4,9 +4,9 @@
 
 
 def sums_of_totients_of_powers() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

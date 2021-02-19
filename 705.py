@@ -4,9 +4,9 @@
 
 
 def total_inversion_count_of_divided_sequences() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

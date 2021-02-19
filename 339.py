@@ -4,9 +4,9 @@
 
 
 def peredur_fab_efrawg() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

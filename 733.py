@@ -4,9 +4,9 @@
 
 
 def ascending_subsequences() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

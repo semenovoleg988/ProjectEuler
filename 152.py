@@ -4,9 +4,9 @@
 
 
 def writing_1/2_as_a_sum_of_inverse_squares() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

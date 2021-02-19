@@ -4,9 +4,9 @@
 
 
 def goldbach's_other_conjecture() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

@@ -4,9 +4,9 @@
 
 
 def an_arithmetic_geometric_sequence() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

@@ -4,9 +4,9 @@
 
 
 def integer_sided_triangles_for_which_the_area/perimeter_ratio_is_integral() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

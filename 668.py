@@ -4,9 +4,9 @@
 
 
 def square_root_smooth_numbers() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

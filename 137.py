@@ -4,9 +4,9 @@
 
 
 def fibonacci_golden_nuggets() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

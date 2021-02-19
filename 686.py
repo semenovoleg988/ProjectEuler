@@ -4,9 +4,9 @@
 
 
 def powers_of_two() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

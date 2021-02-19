@@ -4,9 +4,9 @@
 
 
 def find_the_largest_0_to_9_pandigital_that_can_be_formed_by_concatenating_products() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

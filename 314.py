@@ -4,9 +4,9 @@
 
 
 def the_mouse_on_the_moon() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

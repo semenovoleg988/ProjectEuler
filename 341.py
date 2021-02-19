@@ -4,9 +4,9 @@
 
 
 def golomb's_self-describing_sequence() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

@@ -4,9 +4,9 @@
 
 
 def distinct_colourings_of_a_rubik's_cube() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

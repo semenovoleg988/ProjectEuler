@@ -4,9 +4,9 @@
 
 
 def sum_of_squares_of_divisors() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

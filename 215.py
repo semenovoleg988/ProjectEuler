@@ -4,9 +4,9 @@
 
 
 def crack-free_walls() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

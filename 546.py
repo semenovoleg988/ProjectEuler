@@ -4,9 +4,9 @@
 
 
 def the_floor's_revenge() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

@@ -23,16 +23,16 @@ def create_files():
             if lines[i][a] == ".":
                 lines[i] = lines[i][:a]
                 break
-    for i in range(28, len(lines)):
+    for i in range(29, len(lines)):
         with open(str(i+1) + ".py", 'w') as f:
             f.write("# Problem " + str(i+1) + '\n' + "# " + lines[i])
         lines[i] = lines[i].replace(" ", "_").lower()
         with open(str(i+1) + ".py", 'a') as f:
             f.write("\n# Description(https://projecteuler.net/problem=" + str(i+1)+ ")\n")
             f.write("\n\ndef " + lines[i] + "() -> None:\n")
-            f.write("\t\"\"\" \"\"\"\n")
-            f.write("\tpass\n")
+            f.write("    \"\"\" \"\"\"\n")
+            f.write("    pass\n")
             f.write("\n\nif __name__ == \"__main__\":\n")
-            f.write("\tpass")
+            f.write("    pass")
 
 create_files()

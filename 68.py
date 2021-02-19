@@ -4,9 +4,9 @@
 
 
 def magic_5-gon_ring() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

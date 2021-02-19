@@ -4,9 +4,9 @@
 
 
 def bã©zier_curves() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

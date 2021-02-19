@@ -4,9 +4,9 @@
 
 
 def investigating_the_torricelli_point_of_a_triangle() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

@@ -4,9 +4,9 @@
 
 
 def rational_zeros_of_a_function_of_three_variables() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

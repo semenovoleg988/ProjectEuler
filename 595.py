@@ -4,9 +4,9 @@
 
 
 def incremental_random_sort() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass

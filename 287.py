@@ -4,9 +4,9 @@
 
 
 def quadtree_encoding_(a_simple_compression_algorithm)() -> None:
-	""" """
-	pass
+    """ """
+    pass
 
 
 if __name__ == "__main__":
-	pass
+    pass
