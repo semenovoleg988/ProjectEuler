@@ -27,11 +27,13 @@ def distinct_powers(min_a: int, max_a: int, min_b: int, max_b: int) -> int:
 
     print("Number of distinct powers =", distinct)
 
-def power_list(a:list, b:list)->None:
+def power_list(a:list, b:list) -> None:
     """ Calculate a in power of b"""
     for x in a:
         for y in b:
             print(x, "^", y, "=", pow(x, y), sep="", end="\t")
         print()
 
-power_list([2,4,8,16,32,64], [2,3,4,5])
+
+if __name__ == "__main__":
+    power_list([2,4,8,16,32,64], [2,3,4,5])

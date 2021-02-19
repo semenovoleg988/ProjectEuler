@@ -1,19 +1,12 @@
-#Filename:10.py
+# Problem 10
+# Summation of primes
+"""Description(https://projecteuler.net/problem=10).
+    The sum of the primes below 10 is 2 + 3 + 5 + 7 = 17.
+    Find the sum of all the primes below two million."""
 
-#Problem 10
-#Summation of primes
-'''
-The sum of the primes below 10 is 2 + 3 + 5 + 7 = 17.
 
-Find the sum of all the primes below two million.
-'''
-
-def is_prime(number:int):
-    """Define number prime or not
-    
-        Args: integer number
-        Result: True or False
-    """
+def is_prime(number:int) -> bool:
+    """Define number prime or not"""
     if number <= 1:
         return False
     if number <= 3:
@@ -27,12 +20,8 @@ def is_prime(number:int):
         i = i + 6
     return True
 
-def sum_of_primes(upper_limit):
-    """Calculate summation of primes
-    
-        Args: max number velow wich we will look for prime numbers
-        Result: sum of prime numbers
-    """
+def sum_of_primes(upper_limit: int) -> int:
+    """Calculate summation of primes."""
     sum = 0 
     if upper_limit <= 1:
         return sum
@@ -50,4 +39,6 @@ def sum_of_primes(upper_limit):
                 sum += i + 2 
     return sum
 
-print(sum_of_primes(2000000))
+
+if __name__ == "__main__":
+    print(sum_of_primes(2000000))
