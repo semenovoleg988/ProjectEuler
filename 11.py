@@ -175,7 +175,7 @@ def diagonally_l_r_product(list_of_numbers: list, number_of_factors: int) -> int
         temp_list_2 = []
         for i in range(n, len(list_of_numbers)):
             temp_list_1.append(list_of_numbers[i][i])
-            temp_list_2.append(list_of_numbers[][i])
+            temp_list_2.append(list_of_numbers[i][i])
         temp = largest_product_of_n_digits_in_list_of_numbers(temp_list_1, number_of_factors)
         if maximum < temp: maximum = temp
         temp = largest_product_of_n_digits_in_list_of_numbers(temp_list_2, number_of_factors)
