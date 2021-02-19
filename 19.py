@@ -1,24 +1,23 @@
-#Filenume: 19.py
 #Problem 19
 #Counting Sundays
-'''
-You are given the following information, but you may prefer to do some research for yourself.
-1 Jan 1900 was a Monday.
-Thirty days has September,
-April, June and November.
-All the rest have thirty-one,
-Saving February alone,
-Which has twenty-eight, rain or shine.
-And on leap years, twenty-nine.
-A leap year occurs on any year evenly divisible by 4, but not on a century unless it is divisible by 400.
-How many Sundays fell on the first of the month during the twentieth century (1 Jan 1901 to 31 Dec 2000)?
-'''
-def Counting_Sundays(first_date, last_date):
-    """
-    Calculate the number of all Sundays, wich felt on first day of the month on given period of time  
-    Args: first and last dates in format (01.01.2000)
-    Result: number of Sundays
-    """
+"""Description(https://projecteuler.net/problem=19).
+    You are given the following information, but you may prefer to do some research for yourself.
+    1 Jan 1900 was a Monday.
+    Thirty days has September,
+    April, June and November.
+    All the rest have thirty-one,
+    Saving February alone,
+    Which has twenty-eight, rain or shine.
+    And on leap years, twenty-nine.
+    A leap year occurs on any year evenly divisible by 4, but not on a century unless it is divisible by 400.
+    How many Sundays fell on the first of the month during the twentieth century (1 Jan 1901 to 31 Dec 2000)?"""
+
+
+def Counting_Sundays(first_date: tuple, last_date: tuple) -> int:
+    """Calculate the number of all Sundays, wich felt on first day of the month on given period of time  
+    
+        Args: first and last dates in format (01, 01, 2000)
+        Result: number of Sundays"""
 
     #days_in_month = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30]
     first_month_day = [1, 32, 60, 91, 121, 152, 182, 213, 244, 274, 305, 335]
@@ -48,12 +47,8 @@ def Counting_Sundays(first_date, last_date):
                     print(day, year)
     return number_of_sundays
 
-def First_day_of_the_year(year:int):
-    """
-    Calculate first week day of the given year
-    Args: year
-    Return: number of the week day
-    """
+def First_day_of_the_year(year:int) -> int:
+    """Calculate first week day of the given year"""
     first_day_of_1900 = 1 #1Jan1900 - Monday
     days = 0
     if year == 1900:
@@ -68,7 +63,7 @@ def First_day_of_the_year(year:int):
         print("first_day", first_day)
         return first_day
     if year < 1900:
-        return None
+        return False #FIXME
     
-    
-print(Counting_Sundays((1,1,1901),(1,1,2000)))
+if __name__ == "__main__":
+    print(Counting_Sundays((1,1,2008),(1,1,2020)))

@@ -1,7 +1,7 @@
-# Filename:26.py
 # Problem 26
-# Reciprocal cycles(https://projecteuler.net/problem=26)
-"""Reciprocal cycles
+# Reciprocal cycles
+"""Description(https://projecteuler.net/problem=26).
+
     A unit fraction contains 1 in the numerator. 
     The decimal representation of the unit fractions with denominators 2 to 10 are given:
     1/2	= 	0.5
@@ -38,7 +38,6 @@ def longest_reciprocal_cycles(upper_limit:int = 1000) -> list:
             if i_cycle_len > longest[1]:
                 longest = [i+2, i_cycle_len]
         i +=4
-
     return longest
 
         

@@ -1,7 +1,7 @@
-# Filename:24.py
 # Problem 24
 # Lexicographic permutations
 """Description(https://projecteuler.net/problem=24).
+
     A permutation is an ordered arrangement of objects. 
     For example, 3124 is one possible permutation of the digits 1, 2, 3 and 4. 
     If all of the permutations are listed numerically or alphabetically, we call it lexicographic order. 
@@ -28,7 +28,7 @@ def permutations_of_numbers(N:int, M:int=-1, prefix=None):
     M = N if M == -1 else M
     prefix = prefix or []
     if M == 0:
-        permutations.append(permut)
+        permutations.append(permutations)
         print(permutations)
         return
     for number in range(1, N+1):

@@ -1,6 +1,8 @@
-#Filename:13.py
 #Problem 13
 #Large sum
-'''
-Work out the first ten digits of the sum of the following one-hundred 50-digit numbers.
-'''
+"""Description(https://projecteuler.net/problem=13).
+
+    Work out the first ten digits of the sum of the following one-hundred 50-digit numbers."""
+
+if __name__ == "__main__":
+    pass
