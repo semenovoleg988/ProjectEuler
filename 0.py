@@ -34,5 +34,3 @@ def create_files():
             f.write("\tpass\n")
             f.write("\n\nif __name__ == \"__main__\":\n")
             f.write("\tpass")
-
-create_files()
