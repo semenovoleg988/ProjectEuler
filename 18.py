@@ -1,4 +1,3 @@
-#Filename:18.py
 #Problem 18
 #Maximum path sum I
 """Description(https://projecteuler.net/problem=18).
@@ -32,6 +31,38 @@
     However, Problem 67, is the same challenge with a triangle containing one-hundred rows; 
     it cannot be solved by brute force, and requires a clever method! ;o)"""
 
+def list_of_lists_of_numbers_from_file(file_dist: str) -> list:
+    """returns list with lists with numbers from file where numbers separeted by spaces"""
+    l =[]
+    with open(file_dist) as f:
+        for line in f:
+            l.append(line.split())
+    for i in range(len(l)):
+        for j in range(len(l[i])):
+            l[i][j] = int(l[i][j])
+    return l
+
+
+def maximum_path_sum(l: list) -> int:
+    arr = [0]*len(l)
+    for i in range(len(l)):
+        arr[i] = [0]*len(l[i])
+    
+    arr[0][0] = l[0][0]
+    for i in range(1, len(l)):
+        arr[i][0] = arr[i-1][0] + l[i][0]
+        arr[i][-1] = arr[i-1][-1] + l[i][-1]
+
+    for i in range(2, len(l)):
+        for j in range(1, len(l[i]) - 1):
+            arr[i][j] = max(arr[i-1][j-1], arr[i-1][j]) + l[i][j]
+    
+    return(max(arr[-1]))
+
+def __main__():
+    l = list_of_lists_of_numbers_from_file("18.txt")
+    print(maximum_path_sum(l))
+
 
 if __name__ == "__main__":
-    pass
+    __main__()

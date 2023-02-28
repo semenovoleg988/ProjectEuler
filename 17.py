@@ -1,4 +1,5 @@
 # Problem 17
+#NOT SOLVED. RIGHT ASWER 21124
 # Number letter counts
 """Description(https://projecteuler.net/problem=17).
 
@@ -16,6 +17,7 @@ def Number_letter_counts(first: int, last: int) -> int:
     """Calculate number of letters in generated sequence of numbers"""
     result = 0
     for i in range(first, last + 1):
+        print(i, number_in_words(i))
         result += len(number_in_words(i))
     return result
 
@@ -37,16 +39,16 @@ def number_in_words(number:int) -> str:
         if number % 100 == 0:
             return word_arr[0][number // 100] + "hundred"
         elif number % 10 == 0:
-            return word_arr[0][number // 100] + "hundred" + word_arr[1][(number % 100) // 10]
+            return word_arr[0][number // 100] + "hundredand" + word_arr[1][(number % 100) // 10]
         else: 
             if number % 100 < 19:
-                return word_arr[0][number // 100] + "hundred" + word_arr[0][(number % 100)]
+                return word_arr[0][number // 100] + "hundredand" + word_arr[0][(number % 100)]
             else:
-                return word_arr[0][number // 100] + "hundred" + word_arr[1][(number % 100) // 10] + word_arr[0][number % 10]
+                return word_arr[0][number // 100] + "hundredand" + word_arr[1][(number % 100) // 10] + word_arr[0][number % 10]
     if number == 1000:
-        return "onethousend"
+        return "onethousand"
 
 
 
 if __name__ == "__main__":
-    print(Number_letter_counts(1, 1000))
+    print(Number_letter_counts(1, 100))
