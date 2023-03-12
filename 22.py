@@ -12,5 +12,12 @@
     What is the total of all the name scores in the file?"""
 
 
+def __main__():
+    l = []
+    with open("22.txt") as f:
+        for line in f:
+            l.append(line.split(sep=","))
+    print(l)
+
 if __name__ == "__main__":
-    pass
+    __main__()

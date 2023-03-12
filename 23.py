@@ -17,9 +17,80 @@
 
     Find the sum of all the positive integers which cannot be written as the sum of two abundant numbers."""
 
-def non_abundant_sums():
-    """ """
+
+import time
+
+
+def propdivsum(number: int) -> int:
+    """Calculate sum of prime divisors of given number.
+    Prime divisors are divisors of given number without itself."""
+    if number < 0:
+        number = -number
+    if number == 0:
+        return 0
+    if number == 1:
+        return 1
+    sum_of_divisors = 1
+    if number % 2 == 0:
+        for divisor in range(2, number//2 + 1):
+            if number % divisor == 0:
+                sum_of_divisors += divisor
+    else:
+        for divisor in range(3, number//2 + 1, 2):
+            if number % divisor == 0:
+                sum_of_divisors += divisor
+    return sum_of_divisors
+
+def abundants(n = 2123) -> list:
+     
     pass
 
+
+def __main__():
+    """TODO: переписати алгоритм пошуку. Я написав Алгоритм знаходження всіх abundant чисел і зберіг їх в файл. Далі дістаю їх з файлу і заповнюю масив сум по два з цього файлу.
+    сортую його і далі шукаю всі числа яких там немає. До 28123, бо всі числа після нього повинні бути в цьому масіві, якщо його розширити. Алгоритм пошуку треба переписати.
+    """
+
+    number = 28123
+    abundants = []
+    abundantssum =[]
+    result = 0
+    start_time = time.time()
+
+
+    '''for i in range(number):
+        divsum = propdivsum(i)
+        if divsum > i:
+            abundants.append(i)
+
+    with open("23.txt", "w") as f:
+        for i in abundants:
+            f.write(str(i) + "\n")'''
+
+    with open("23.txt", "r") as f:
+        for i in f:
+            if i != "":
+                abundants.append(int(i))
+
+    for i in range(len(abundants)):
+        for j in range(i):
+            abundantssum.append(abundants[i] + abundants[j])
+    
+    abundantssum.sort()
+    for n in range(number):#need to improve search
+        i = 0
+        while abundantssum[i] <= n:
+            if abundantssum[i] == n:
+                flag = 1
+            i += 1
+        if flag == 1:
+            flag = 0
+        else:
+            print(n)
+            result += n
+
+    print(result)
+    print(time.time() - start_time)
+            
 if __name__ == "__main__":
-    pass
+    __main__()
