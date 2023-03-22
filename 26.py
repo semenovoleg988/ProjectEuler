@@ -18,27 +18,27 @@
 
     Find the value of d < 1000 for which 1/d contains the longest recurring cycle in its decimal fraction part."""
 
+
+def reccycle(denominator: int, numerator: int = 1) -> int:
+    """ Calculate length of recurring cycle"""
+    print(numerator/denominator)
+    return 0
+
 def __main__():
     upper_limit = 1000
     longest = [3, 1] 
     i = 7
     i_cycle_len = 0
     while(i <= upper_limit):
-        i_cycle_len = recurring_cycle(i)
+        i_cycle_len = reccycle(i)
         if i_cycle_len > longest[1]:
             longest = [i, i_cycle_len]
         if i + 2 <= upper_limit:
-            i_cycle_len = recurring_cycle(i+2)
+            i_cycle_len = reccycle(i+2)
             if i_cycle_len > longest[1]:
                 longest = [i+2, i_cycle_len]
         i +=4
     return longest
-
-        
-def recurring_cycle(denominator: int, numerator: int = 1) -> int:
-    """ Calculate length of recurring cycle"""
-    print(numerator/denominator)
-    return 0
 
 if __name__ == "__main__":
     __main__()
